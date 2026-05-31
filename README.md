@@ -99,14 +99,6 @@ Open the `index.html` file in your browser.
 
 ---
 
-## 📸 Screenshot
-
-Add a screenshot of your project inside the repository and update the path below:
-
-```markdown
-![Space Calculator](assets/screenshot.png)
-```
-
 ---
 
 ## 🎮 Usage
