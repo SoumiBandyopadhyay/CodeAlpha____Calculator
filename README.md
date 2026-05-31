@@ -63,7 +63,7 @@ space-calculator/
 ├── index.html
 ├── README.md
 └── assets/
-    └── screenshot.png
+    
 ```
 
 ---
