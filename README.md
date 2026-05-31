@@ -99,8 +99,6 @@ Open the `index.html` file in your browser.
 
 ---
 
----
-
 ## 🎮 Usage
 
 ### Using the Mouse
