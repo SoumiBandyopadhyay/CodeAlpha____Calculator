@@ -184,8 +184,6 @@ git push origin feature-name
 
 **Soumi Bandyopadhyay**
 
-- GitHub: https://github.com/your-username
-
 ---
 
 ## 📄 License
